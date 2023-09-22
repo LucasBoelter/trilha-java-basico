@@ -47,9 +47,7 @@ public class ResultadoEscolar {
 }
 ```
 
-{% hint style="success" %}
-Vale ressaltar aqui que no Java em uma condição**`if/else`** as vezes necessitamos adicionar um bloco de **`{ }`**se a lógica conter mais de uma linha.
-{% endhint %}
+> Vale ressaltar aqui que no Java em uma condição**`if/else`** as vezes necessitamos adicionar um bloco de **`{ }`**se a lógica conter mais de uma linha.
 
 ## Condicionais encadeadas
 
@@ -165,9 +163,9 @@ public class SistemaMedida {
 
 ```
 
-{% hint style="danger" %}
-Observe que a nível de sintaxe não tivemos nenhum ganho quanto a redução de códigos e ainda tivemos mais uma preocupação em informar a palavra `break` em cada alternativa.
-{% endhint %}
+
+> Observe que a nível de sintaxe não tivemos nenhum ganho quanto a redução de códigos e ainda tivemos mais uma preocupação em informar a palavra `break` em cada alternativa.
+
 
 Porém um cenário que poderíamos adequar o uso do switch/case para melhorar nosso algorítimo seria conforme ilustração abaixo:
 
@@ -222,9 +220,8 @@ public class PlanoOperadora {
 }
 ```
 
-{% hint style="warning" %}
-Se optarem por usar **`switch`** / **`case`**, estudem um  pouco mais sobre os conceitos de **`continue`**, **`break`** e **`default`**
-{% endhint %}
+
+>Se optarem por usar **`switch`** / **`case`**, estudem um  pouco mais sobre os conceitos de **`continue`**, **`break`** e **`default`**
 
 &#x20;
 
@@ -236,8 +233,8 @@ Se optarem por usar **`switch`** / **`case`**, estudem um  pouco mais sobre os c
 
 #### Referências
 
-{% embed url="https://rockcontent.com/br/talent-blog/estruturas-condicionais-2" %}
+https://rockcontent.com/br/talent-blog/estruturas-condicionais-2
 
-{% embed url="http://fabrica.ms.senac.br/2013/06/algoritmo-estruturas-condicionais" %}
+http://fabrica.ms.senac.br/2013/06/algoritmo-estruturas-condicionais
 
-{% embed url="http://www.bosontreinamentos.com.br/java/estrutura-de-decisao-condicional-switch-em-java#:~:text=O%20condicional%20switch%20testa%20o,representados%20pela%20palavra%20reservada%20case.&text=A%20estrutura%20switch%20compara%20o,o%20c%C3%B3digo%20associado%20ao%20caso." %}
+http://www.bosontreinamentos.com.br/java/estrutura-de-decisao-condicional-switch-em-java#:~:text=O%20condicional%20switch%20testa%20o,representados%20pela%20palavra%20reservada%20case.&text=A%20estrutura%20switch%20compara%20o,o%20c%C3%B3digo%20associado%20ao%20caso.
